@@ -99,7 +99,20 @@ a {
 .cs-secondary_font {
   font-family: "Inter", sans-serif;
 }
-
+.cs-hero.cs-style1 {
+  position: relative;
+  padding: 70px 0;
+  min-height: 673px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
 h1 {
   font-size: 56px;
 }
