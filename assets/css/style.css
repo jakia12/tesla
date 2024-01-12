@@ -62,9 +62,10 @@ html {
   background-color: #ffffff;
 }
 body {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.881), rgba(0, 0, 0, 0.84)),
-    url(/assets/img/bg.jpg);
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.881), rgba(0, 0, 0, 0.84)),
+    url(/assets/img/bg.jpg); */
   background-attachment: fixed;
+  background-color: #111;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -4035,9 +4036,10 @@ img.road_img {
   body {
     /* background-image: linear-gradient(rgba(0, 0, 0, 0.77), rgba(0, 0, 0, 0.8)),
       url(/assets/img/bg1.avif); */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-      url(/assets/img/bg.jpg);
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+      url(/assets/img/bg.jpg); */
     background-attachment: fixed;
     background-position: center;
+    background-color: #111;
   }
 }
