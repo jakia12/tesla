@@ -59,14 +59,11 @@ html {
   font-weight: 400;
   line-height: 1.6em;
   overflow-x: hidden;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
 }
 body {
-  /* background-image: linear-gradient(rgba(0, 0, 0, 0.881), rgba(0, 0, 0, 0.84)),
-    url(/assets/img/bg.jpg); */
-
   background-color: #111;
-  height: 100vh;
+  height: 90vh;
 }
 h1,
 h2,
